@@ -1,0 +1,7 @@
+matplotlib==3.9.2
+numpy==2.1.2
+pandas==2.3.1
+
+# backend
+# fastapi==0.116.1
+PyQt6==6.9.1
